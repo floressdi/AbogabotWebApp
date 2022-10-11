@@ -21,3 +21,4 @@ Un despacho de abogados necesita una aplicacion web para automatizar procesos de
 
 
 ### Buyer persona
+![Buyer Persona Template](https://user-images.githubusercontent.com/74226649/195057263-3e44559a-1aa1-4e03-917d-f23c5f688e12.jpg)
