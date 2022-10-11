@@ -3,16 +3,15 @@
 Un despacho de abogados necesita una aplicacion web para automatizar procesos de su demanda laboral
 
 ### Requerimientos | Cliente
-* Creacion de cuenta 
+* Registro en el formulario
 * Correos de notificacion
 * Formulario para pagar
 * Seguimiento del caso
 
 ### Requerimientos | Administrador
-* Cuenta
-* Notificaciones de nueva demanda 
-* Procesos de pago
-* Agregar Comentarios
+* Notificaciones de nuevas demandas y
+  Crear automaticamente el docuemento legal con los datos enviados del formulario
+* Actualizacion del estado de la demanda y comentarios
 * Visualizacion de transacciones
 
 ### Requerimiento | General
