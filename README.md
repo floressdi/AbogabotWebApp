@@ -5,19 +5,19 @@ Un despacho de abogados necesita una aplicacion web para automatizar procesos de
 ### Requerimientos | Cliente
 * Registro en el formulario
 * Correos de notificacion
-* Formulario para pagar
+* Procesos de pago en formulario
 * Seguimiento del caso
 
 ### Requerimientos | Administrador
 * Notificaciones de nuevas demandas y
-  Crear automaticamente el docuemento legal con los datos enviados del formulario
-* Actualizacion del estado de la demanda y comentarios
+  crear automaticamente el docuemento legal con los datos enviados del formulario
+* Actualizacion del estado de la demanda y agregar comentarios en cada paso
 * Visualizacion de transacciones
 
 ### Requerimiento | General
 * Responsive Design (Diseño adaptable a todos los dispositivos)
 * Tema de colores
-* Formulario para porcesos de transacciones
+* Formulario para procesos de transacciones seguro
 
 
 ### Buyer persona
