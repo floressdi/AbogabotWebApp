@@ -27,7 +27,10 @@ Un despacho de abogados necesita una aplicacion web para automatizar procesos de
 
 
 
-### Publico Objetivo
+### Publico Objetivo![PublicoObjetivo](https://user-images.githubusercontent.com/74226649/195246547-31f2b3bf-df72-4a75-96d8-e151a2ee33e0.jpg)
+
+
+
 
 ### UX FRAME
 
