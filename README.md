@@ -33,6 +33,8 @@ Un despacho de abogados necesita una aplicacion web para automatizar procesos de
 
 
 ### UX FRAME
+![photo_5071222909393021723_y](https://user-images.githubusercontent.com/74226649/196050921-02e4bce1-d8b1-4ab0-a06d-3e38c93d8e65.jpg)
+![photo_5071222909393021724_y](https://user-images.githubusercontent.com/74226649/196050926-9fd9c9e3-fe58-41d0-9622-2c347633bfb6.jpg)
 
 
 ### UI 
